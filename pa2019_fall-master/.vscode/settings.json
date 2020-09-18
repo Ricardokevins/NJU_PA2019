@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "instr.h": "c",
+        "cpu.h": "c",
+        "pop.h": "c",
+        "imul.h": "c",
+        "cache.h": "c",
+        "time.h": "c",
+        "memory.h": "c",
+        "random": "c",
+        "dec.h": "c",
+        "lidt.h": "c",
+        "setcc.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
